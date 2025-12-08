@@ -1,9 +1,10 @@
 services:
   - type: web
-    name: snake-arena-app
+    name: snake-arena
     env: docker
     dockerContext: .
     dockerfilePath: backend/Dockerfile
+    region: singapore
     plan: free
     envVars:
       - key: DATABASE_URL
@@ -19,5 +20,6 @@ databases:
   - name: snake-arena-db
     databaseName: snakearena
     user: snakearena
+    region: singapore
     plan: free
     ipAllowList: [] # Allow all IPs for now (or restrict if needed)
