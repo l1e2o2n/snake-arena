@@ -4,10 +4,6 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://snake-arena-2w0m.onrender.com/)
 
-**[🎮 Play Now](https://snake-arena-2w0m.onrender.com/)** | **[📖 Documentation](#features)** | **[🚀 Deployment](#deployment)**
-
----
-
 ## ✨ Features
 
 ### 🎯 Dual Game Modes
@@ -36,7 +32,6 @@
 - **Visual Feedback** - Modern UI with smooth animations
 - **Pause & Resume** - Full game control with play/pause functionality
 
----
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +60,6 @@
 - **[GitHub Actions](https://github.com/features/actions)** - CI/CD pipeline automation
 - **Multi-stage builds** - Optimized Docker images
 
----
 
 ## 🚀 Live Demo
 
@@ -79,7 +73,6 @@
 
 > **Note:** First load may take 30-60 seconds as the free-tier Render service spins up.
 
----
 
 ## 🏃 Getting Started
 
@@ -141,7 +134,6 @@ docker-compose up --build
 
 Access the app at `http://localhost:8000`
 
----
 
 ## 🧪 Running Tests
 
@@ -173,7 +165,6 @@ npm run test:watch
 npm run test:coverage
 ```
 
----
 
 ## 📁 Project Structure
 
@@ -208,7 +199,6 @@ snake-arena/
 └── openapi.yaml            # API specification
 ```
 
----
 
 ## 📜 API Documentation
 
@@ -224,7 +214,6 @@ The API follows OpenAPI 3.0 specification. When running locally, visit:
 - `POST /api/leaderboard` - Submit score
 - `GET /api/games/active` - Get active games for spectating
 
----
 
 ## 🚢 Deployment
 
@@ -259,7 +248,6 @@ The project includes a GitHub Actions workflow that:
 3. ✅ Runs integration tests
 4. 🚀 Triggers Render deployment on successful tests (main branch only)
 
----
 
 ## 🎮 How to Play
 
@@ -271,7 +259,6 @@ The project includes a GitHub Actions workflow that:
    - **Pass-Through Mode**: The snake wraps around when hitting edges
 5. **Compete**: Your score is automatically submitted to the leaderboard when logged in
 
----
 
 ## 🤝 Contributing
 
@@ -285,7 +272,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ---
-
-**Enjoy playing Snake Arena! 🐍🎮**
 
 Vibe coded with ❤️ by Quinn Ng using Lovable and Google Antigravity
